@@ -6,6 +6,6 @@ end
 
 def using_unshift(array, string)
   array = [1, 2, 3]
-  string = "violet"
+  string = "Staten Island"
   array.unshift(string)
 end
